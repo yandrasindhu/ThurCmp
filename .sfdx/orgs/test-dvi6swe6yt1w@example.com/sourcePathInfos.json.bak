@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\HP\\Thursday\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604550319,
+            "changeTime": 1535604550319,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604550319,
+            "changeTime": 1535604550319,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604550320,
+            "changeTime": 1535604550320,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604764806,
+            "changeTime": 1535604764806,
+            "contentHash": "ffc66050174392c33ed8a46c0c8554f243308d16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604764811,
+            "changeTime": 1535604764811,
+            "contentHash": "9c5ac9b79d7a427eb46af8814e4869ef1d267dca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1535604764810,
+            "changeTime": 1535604764810,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1535604764806,
+            "changeTime": 1535604764806,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1535604764807,
+            "changeTime": 1535604764807,
+            "contentHash": "007a5e79ca2d03790d782802d5d61d6fa40842a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1535604764809,
+            "changeTime": 1535604764809,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1535604764811,
+            "changeTime": 1535604764811,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursComp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1535604764810,
+            "changeTime": 1535604764810,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1535604764808,
+            "changeTime": 1535604764808,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1535604764808,
+            "changeTime": 1535604764808,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday\\force-app\\main\\default\\aura\\ThursComp\\ThursCompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1535604764809,
+            "changeTime": 1535604764809,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\HP\\Thursday",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\HP\\Thursday",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535604803761,
+            "changeTime": 1535604803761,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
